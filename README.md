@@ -1,8 +1,8 @@
 # The World Today — Wednesday 25 November 2026
 
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ice-makefun/news-image-20261125)
-[![Image](https://img.shields.io/badge/image-1024x1024-blue)](https://github.com/ice-makefun/news-image-20261125/blob/main/frontpage.png)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/ice-makefun/news-image-20261125/blob/main/LICENSE)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/ice-makefun/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/ice-makefun/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 A newspaper front page summing up the world's news of **Wednesday 25 November 2026**,
 built for the make.fun competition
